@@ -8,7 +8,8 @@ The analysis addresses real-world machine learning challenges such as class imba
 Predict income category:
 * <=50K
 * >50K
-* using features such as:
+  
+using features such as:
 * Age
 * Education level
 * Occupation
@@ -21,6 +22,7 @@ Predict income category:
 ---
 ## Dataset
 UCI Adult Income Dataset
+
 🔗 Kaggle:
 https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
@@ -28,6 +30,7 @@ Dataset Characteristics
 * 48,842 records
 * 14 demographic and employment attributes
 * Binary classification target
+  
 Real-world issues:
 * Class imbalance
 * Missing values
@@ -47,6 +50,7 @@ Three Decision Tree configurations were evaluated:
 - Default Decision Tree
 * Accuracy: 81.48%
 - Tuned Decision Tree
+  
 Parameters tested:
 * max_depth = 5
 * min_samples_split = 20
