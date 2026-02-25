@@ -1,8 +1,7 @@
 # Decision-Tree-Classifier-Adult-Income-Prediction
-
 UCI Adult Income Dataset Analysis
 ## Overview
-This project implements and evaluates a Decision Tree Classifier to predict whether an individual’s annual income exceeds $50K based on demographic and employment attributes from the UCI Adult Income dataset.
+This task implements and evaluates a Decision Tree Classifier to predict whether an individual’s annual income exceeds $50K based on demographic and employment attributes from the UCI Adult Income dataset.
 The analysis addresses real-world machine learning challenges such as class imbalance, missing values, and categorical encoding, while exploring how model performance changes through parameter tuning and cross-validation.
 
 ## Objective
